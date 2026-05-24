@@ -93,6 +93,6 @@ Simule no [Wokwi](https://wokwi.com/projects/463742348394299393), que disponibil
 
 ## 👥 Autores
 
-João Vitor Batista de Mattos, 
-Thiago Souza de Lima,
-Matheus Akira Aso,
+João Vitor Batista de Mattos, Thiago Souza de Lima, Matheus Akira Aso
+
+
