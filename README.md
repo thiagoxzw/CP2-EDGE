@@ -86,9 +86,10 @@ Simule no [Wokwi](https://wokwi.com/projects/463742348394299393), que disponibil
 ├── vinheria_agnello.ino     # Código do Arduino
 ├── README.md                # Este arquivo
 ├── circuito.png             # Imagem do circuito
-└── docs/
-    ├── encapsulamento.md    # Proposta de encapsulamento do protótipo
-    └── valores_demonstracao.md  # Valores ideais para o vídeo
+├── informações.txt          # Informações do projeto
+└── Encapsulamento/
+    ├── myCase_V3_BackCover.stl    # Proposta de encapsulamento do protótipo
+    └── myCase_V3_Front.stl  # Proposta de encapsulamento do protótipo
 ```
 
 ## 👥 Autores
